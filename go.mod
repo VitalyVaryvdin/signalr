@@ -42,3 +42,5 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace nhooyr.io/websocket v1.8.10 => github.com/coder/websocket v1.8.10
